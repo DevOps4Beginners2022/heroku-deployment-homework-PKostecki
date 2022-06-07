@@ -3,6 +3,6 @@ setup:
     - plan: heroku-postgresql
   config:
     SECRET:
-  build:
-    docker:
-      web: Dockerfile
+build:
+  docker:
+    web: Dockerfile
