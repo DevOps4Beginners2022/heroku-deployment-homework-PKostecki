@@ -2,6 +2,7 @@
 
 ## Zadanie 1
 
+
 Przygotuj Dockerfile, który skopiuje pliki naszej aplikacji, zbuduję ją i uruchomi.
 
 Wymagania dot. dockefile:
